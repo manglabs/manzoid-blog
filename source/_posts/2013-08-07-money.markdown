@@ -1,0 +1,76 @@
+---
+layout: post
+title: "Money"
+date: 2013-08-04 03:37
+comments: true
+categories: 
+---
+
+Everybody knows the truism that money doesn't buy happiness.
+
+But is that true? Without money, it's pretty easy in America to wind up straight-up homeless -- [Marshall Brain will break that down for you, kids!][1] -- and homelessness would seem to suck, leading to high stress and unhappiness, to put it mildly.
+
+This is true despite a certain romanticization of the American hobo lifestyle a la [Woody Guthrie][2], the [Boxcar Children][3] series, and hipsters showing that they can [pull it off for a little while][4].
+
+Admittedly, I was once pals with a dumpy, brilliant hacker back in the first Tech Bubble who lost every penny of a stupendous paper-fortune, became pretty depressed, and travelled around for the next couple years in a van. Perhaps he even parked it [down by the river][5] at times. It turned out to be pretty good therapy, and the guy later came roaring back to a big role at Apple and make his fortune and find happiness after all, so maybe a stint of homelessness isn't all bad.
+
+But these are exceptions that prove the rule. Bottom line is we need dough to get by, and figuring out how to acquire it does occupy a lot of our thought and effort.
+
+Despite how hard most people work to earn a living, most people don't think of themselves as [obsessed by money][6]. Most people are just trying to get by, and want a stable and hopefully semi-interesting job that helps them do that. Still, our minds are on our money, and money's on our minds.
+
+## What is money, anyway?
+
+Personally I think of it in a straightforward way: **money represents your desire and ability to have other people do something for you**. If you can do it yourself, then you don't need to pay somebody else to do it, right?
+
+Whether it's a product or service, it holds true. It's especially obvious when you hire a service -- a person actually stands before you, doing something you hired them to do. But it's true when you buy an object as well.
+
+It seems like you are buying a **thing**, but what you are really buying is the labor of the **people** who designed, built, packaged, transported, and sold that item for you, along with the cost of all the other people that *those* people paid to help them do those things.
+
+This essential nature of money is obscured by the super-tangible-ness, the uber-concrete-ness of the product that you're buying. You're holding an iPhone, a cross-trainer sneaker, a block of sharp cheddar cheese, a sample bathroom tile -- these things are very physical, and cost money. So that's what you're shelling out for, obviously -- you're buying a thing, what could be more obvious?
+
+But ultimately, that's not really what's going on -- it's just the surface transaction, the trading of some paper bills for that physical product. However those products would not exist without human intervention. Italianate bathroom tiles do not grow on tile-trees. Even an orange, which does in fact grow on a tree, does not magically whisk its way to you, "[Accio Orange][7]"-style.
+
+## But, but, but…!
+
+**"But machines are making these things, not people!"** you might think to yourself.
+
+But who's designing the machines? Who's operating them? Who maintains them when they break? Who makes sure to pay the bill for the juice they run on? Who organizes and manages all this effort? Whoever these people are, that's what you're really paying for, not for the operation of the machine. And you're also paying for all those other people who made the machines and sold them to the company making the product.
+
+**"What about real estate? Nobody's making that!"** you might think to yourself.
+
+First, to be pedantic, that's actually not strictly true, sometimes [we do make land][8]. But in general, yes, humans don't create land. However, we humans do live in a cold universe for the most part, that doesn't recognize these little things we like to call "rights".
+
+What's to stop some dude from swinging by your place, shooting you and your family, or just beating you silly and throwing you out into the street, and taking your house? Well, the police, the court system, and ultimately the military, that's who. I.e., different levels of government make and enforce the complex system of property rights that prevent others from just killing you and taking your stuff.
+
+When you fork over a cool $750,000 to buy a little house somewhere in Los Angeles, you are paying to influence 2 sets of people:
+
+*   **Explicit**: The landowners, so they voluntarily give up their claim and publicly proclaim that you are the new owner.
+*   **Implicit**: The government and all its powerful instruments of violent persuasion, to make everybody respect that new claim, i.e., keep the forces of evil at bay and protect your property.
+
+So, it may sound strange, but I believe that the idea of property protection is actually built into the purchase price. I don't mean that there's some specific percentage of the purchase price that represents the human effort to protect your property (that's actually explicitly paid for elsewhere, in taxes that fund public services). Rather I mean that the fact that there is a price *at all* is indicative of the protection aspect.
+
+## After the Apocalypse
+
+Consider a [post-apocalyptic scenario][9], where government had broken down, laws were unenforced, and people were desperate. Money would be basically worthless, right?
+
+Why is that?
+
+Well, it's because that proclamation that "this guy I just sold this property to, he's the real owner" -- it would be worthless. It would be worthless because no powerful agents would enforce your property rights.
+
+The belief that you really owned things because of an exchange of money would be severely weakened in an apocalyptic scenario. And why? Because *people* aren't protecting your rights.
+
+**Everything comes down to what people are doing, or not doing, and who they're doing it for.**
+
+This is what money really represents. I believe that understanding that is one of the keys to fulfillment in life.
+
+I'll expand on this theme, in a more practical manner, in a future post.
+
+ [1]: http://www.bygpub.com/books/tg2rw/chap1excerpt.htm
+ [2]: http://www.woodyguthrie.org/biography/biography2.htm
+ [3]: http://www.goodreads.com/book/show/297249.The_Boxcar_Children
+ [4]: http://qr.ae/Ik71A
+ [5]: http://www.youtube.com/watch?v=XaoM0FyLmGY
+ [6]: http://www.youtube.com/watch?v=bjZRAvsZf1g
+ [7]: http://harrypotter.wikia.com/wiki/Summoning_Charm
+ [8]: http://japanpropertycentral.com/real-estate-faq/reclaimed-land-in-japan/
+ [9]: http://www.vertigocomics.com/graphic-novels/y-the-last-man-vol-1-unmanned
