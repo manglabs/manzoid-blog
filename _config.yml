@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://manzoid.com
+url: http://manzoid.com/blog
 title: manzoidal meanderings
 subtitle: "DRY! I repeat: DRY."
 author: Tim Mansfield
@@ -26,10 +26,10 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /blog
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/blog
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: manzoid
 twitter_tweet_button: true
 
 # Google +1
@@ -90,7 +90,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: manzoidblog
 disqus_show_comment_count: false
 
 # Google Analytics
