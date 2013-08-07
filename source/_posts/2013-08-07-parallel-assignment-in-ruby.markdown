@@ -3,7 +3,7 @@ layout: post
 title: "Parallel assignment in Ruby"
 date: 2013-08-04 04:00
 comments: true
-categories: 
+categories: ruby programming
 ---
 
 **Parallel assignment** is a handy feature of the Ruby language (a feature it shares with other languages, such as Python).

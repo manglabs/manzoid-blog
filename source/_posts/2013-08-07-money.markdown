@@ -3,7 +3,7 @@ layout: post
 title: "Money"
 date: 2013-08-04 03:37
 comments: true
-categories: 
+categories: money work
 ---
 
 Everybody knows the truism that money doesn't buy happiness.

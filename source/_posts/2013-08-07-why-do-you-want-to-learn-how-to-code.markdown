@@ -3,7 +3,7 @@ layout: post
 title: "Why do you want to learn how to code?"
 date: 2013-08-04 04:02
 comments: true
-categories: 
+categories: learning motivation
 ---
 
 I have mentored quite a few people, over the years, in learning how to code. It's a happy hobby of mine. I've been helped by many people over the years and I am glad to "pay it forward", as they say.
