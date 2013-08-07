@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "How we read"
-date: 2013-08-07 04:45
+date: 2013-08-04 04:45
 comments: true
-categories: 
+categories: learning
 ---
 
 My 9-year-old son and I read newspaper articles together from time to time.
