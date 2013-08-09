@@ -15,7 +15,6 @@ It's fairly fun and educational, because grown-up articles...
 *   ... assume a lot of background knowledge that kids generally don't have.
 
 I'd like to talk about this for a bit, because I think there are strong parallels between this process and more-general experiences of learning complex new material, for example when people are first learning how to program a computer.
-
   
 So, today we read this one from the New York Times:  
 
@@ -39,8 +38,7 @@ Here's what Isaac and I normally do when we approach an article:
 *   Try to summarize what the article was about
 *   Briefly discuss what we think about the article
 
-  
-
+<!--more-->
 
 ## How it went this time
 

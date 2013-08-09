@@ -29,8 +29,7 @@ With that in mind, take a look at this laundry list that fell out of the top of 
     * where I work with smart, can-do people
     * that will let me work flexibly 
         * part-time
-        * remotely
-        * from home
+        * remotely / from home
         * overseas
 * I want to build things 
     * I like tinkering
@@ -38,6 +37,10 @@ With that in mind, take a look at this laundry list that fell out of the top of 
     * I like making things work
     * I want to leave a "legacy" of things I have built 
         * even though software is ephemeral, still -- to have made things…
+
+
+<!--more-->
+
 * I want to make an impact 
     * I want to make things that improve people's lives
     * I want to become wealthy 

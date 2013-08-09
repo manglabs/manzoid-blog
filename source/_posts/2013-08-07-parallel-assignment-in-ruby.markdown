@@ -21,6 +21,7 @@ The first, simplest case is when there is 1 lvalue and multiple rvalues. For exa
     > a
      => [1, 2] 
     
+<!--more-->
 
 All that's happening is the right-hand comma-separated list of values is converted into an array and assigned to the left-hand variable.
 

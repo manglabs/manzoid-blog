@@ -18,6 +18,8 @@ However, there *is* more to it than that. And anyone who knows me, knows that I 
 
 So let's unpack more of the nuances.
 
+<!--more-->
+
 ### "Come on, Masaro!"
 
 Setting aside for a moment the *gaijin* (foreigner) scenario that Jeff is concerned with, if two Japanese natives are talking to each other, then one calling the other by their first name alone (as in "Come on, Masaro, that's crazy talk.") certainly does occur at times, but it has a really intimate feel to it. It signals the implication that you are very close -- you are Masaro's parent, or you two were close in college and have known each other for 20 years and are just talking by yourselves (not in front of others who don't share that status). In those cases, using someone's first name feels natural.

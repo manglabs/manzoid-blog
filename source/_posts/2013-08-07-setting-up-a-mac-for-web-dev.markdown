@@ -25,6 +25,8 @@ I'm interested in hearing other suggestions for what a good web dev set up might
 *   Eclipse IDE 
     *   Android dev kit
 
+<!--more-->
+
 ## Package Management
 
 *   Homebrew (http://brew.sh/)
