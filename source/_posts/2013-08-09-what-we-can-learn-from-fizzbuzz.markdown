@@ -22,9 +22,9 @@ Despite being a bit of an in-joke, this question does actually get used. I was i
 
 Like [many](http://www.codeproject.com/Articles/27742/How-To-Reverse-a-Linked-List-3-Different-Ways) [other](http://www.geeksforgeeks.org/reverse-a-string-using-recursion/) [standard](http://www.ardendertat.com/2011/10/10/programming-interview-questions-7-binary-search-tree-check/) [questions](http://en.wikipedia.org/wiki/Subset_sum_problem) that you should become familiar with if you are prepping for a programming interview, it's not a bad idea to run through it just to make sure you can do it in your sleep, on the off chance that it comes up. It's such a simple-looking problem, but it actually does trip up a lot of people, even [professional programmers with CS degrees](http://www.skorks.com/2010/04/a-fizzbuzz-faux-pas/).
 
-Beyond that, though, it can also useful to study FizzBuzz as an exercise in interviewer psychology.  What are they looking for?
+Beyond that, though, it can also be useful to study FizzBuzz as a barebones driver for exploring "Interviewer Psychology 101".  What are interviewers looking for?
 
-Let's look at what even a tiny problem like FizzBuzz can reveal. 
+Let's look at what even a trivial "weeder" problem like FizzBuzz can reveal about that. 
 
 <!-- more -->
 
@@ -53,7 +53,7 @@ Even great, iconoclastic artists like Picasso first demonstrated that they could
 
 Miscommunication is the forlorn heart of the human condition. Overcoming the solitude of our own skulls is our lifelong lot.
 
-Which is to say, pretty much every feature specification you'll ever get in your professional development career will have some ambiguity in it. Ambiguity is built into our laziness about fully explaining, into the English language, into the fuzzy and intuitive way humans tend to think about things. Ambiguity is built into how we're not all that good at thinking things through fully, not thinking ahead to all the edge cases, not predicting how other people will receive what we're trying to say, and so on.
+Which is to say, pretty much every feature specification you'll ever get in your professional development career will have some ambiguity in it. Ambiguity is built into human languages, into our inevitable laziness about fully explaining things, into the fuzzy and intuitive way humans tend to think. Ambiguity is built into how we're not all that good at thinking things through fully, not thinking ahead to all the edge cases, not predicting how other people will receive what we're trying to say, and so on.
 
 That given, blithely charging ahead with code without pausing to check for assumptions is a bad sign.  Take a moment to reflect on where the spec might be "soft".
 
