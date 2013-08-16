@@ -4,7 +4,7 @@
 
 url: http://manzoid.com/blog
 title: manzoidal meanderings
-subtitle: "DRY! I repeat: DRY."
+subtitle: "I'd give my right arm to be a great violinist."
 author: Tim Mansfield
 simple_search: http://google.com/search
 description:
@@ -94,7 +94,7 @@ disqus_short_name: manzoidblog
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-32579778-1
 
 # Facebook Like
 facebook_like: false
