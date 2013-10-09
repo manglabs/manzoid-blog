@@ -11,6 +11,8 @@ There's a [lot of interest](http://goo.gl/1jZlIZ) in "[coding academy](http://go
 
 That's where the coding academies come in. They typically take from 9 to 12 weeks, and are intense, full-immersion "boot camp"-style experiences. You learn programming basics, a bunch of tools, and build multiple applications that will then go into your portfolio upon graduation. Toward the end of the program, you also typically get varying degrees of placement help to get you into your first professional job, as a junior software developer. Starting salaries in major metropolitan areas tend to head north of $80k right now, apparently.
 
+<!-- more -->
+
 The tuition seems to average around $11,000 or so. This is definitely pricey, but compared to the cost of getting a regular degree, it's not outrageously high. Also you can factor in the fact that the programs are comparatively short -- 3 months or so -- and therefore the opportunity cost of lost income in the meantime will be significantly lower than a more conventional and slower-paced program.
 
 It's a fair chunk of change, though.  To partially address that, some programs will reimburse a portion of the tuition if you choose to go with a company that they introduce you to. This reimbursement is of course funded by a hefty recruiting fee that is paid by that company to the bootcamp organizers.
