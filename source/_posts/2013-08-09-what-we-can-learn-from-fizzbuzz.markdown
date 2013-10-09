@@ -110,7 +110,7 @@ You can't rely *too* much on this however. It's not a Get Out of Jail Free card 
 Are you actually familiar with your chosen programming language? You will often be given your choice of several languages in which to do the implementation, [within reason](http://www.muppetlabs.com/~breadbox/bf/). If you don't seem to have a ready command of basic syntax in the language that you yourself chose, that doesn't augur well for your abilities. 
 
 <div style="float:right;padding-bottom:5px;margin-left:10px">
-  <img src="http://i.imgur.com/tU0Fazd.png"/>
+  <img src="http://i.imgur.com/2ffwgLd.jpg"/>
   <div style="text-align:center;font-size:0.8em"><em>i'm as smart as a sponge!</em></div>
 </div>
 
