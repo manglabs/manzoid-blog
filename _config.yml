@@ -3,11 +3,17 @@
 # ----------------------- #
 
 url: http://manzoid.com/blog
-title: Iterative Development
-subtitle: "(of ourselves)"
+title: Tim Mansfield
+subtitle:
 author: Tim Mansfield
 simple_search: http://google.com/search
 description:
+
+navigation:
+- text: Home
+  url: /blog
+- text: Archives
+  url: /blog/archives
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -63,7 +69,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: manzoid
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
