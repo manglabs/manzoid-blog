@@ -3,7 +3,7 @@ layout: post
 title: "Matz talks about his beliefs (transcript)"
 date: 2013-08-20 01:45
 comments: true
-categories: ruby, inspiration
+categories: ruby inspiration
 
 ---
 
