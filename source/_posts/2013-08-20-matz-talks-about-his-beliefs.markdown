@@ -13,25 +13,13 @@ categories: ruby inspiration
 
 <!--more-->
 
-> But computers really aren't all that bright, they don't understand our language. So in order to get computers to do the work we want them to do, we have to find some common understanding. That's what programming languages are for.
+> But computers really aren't all that bright, they don't understand our language. So in order to get computers to do the work we want them to do, we have to find some common understanding. That's what programming languages are for. When I was 15, I first encountered computers. I started programming, and ever since then, for the past 30 years, I've been programming. And I've never regretted a moment of it.
 
-> When I was 15, I first encountered computers. I started programming, and ever since then, for the past 30 years, I've been programming. And I've never regretted a moment of it.
+> About 10 years ago, I started thinking, wow, I think I might have created something that's really having an impact on the world. There are websites all over the world that were made using Ruby. When I was first making Ruby, I really thought I was going to be the only one using it. But after a while, people all over the world started using it, and lots of people have written books to help people learn it. 
 
-> About 10 years ago, I started thinking, wow, I think I might have created something that's really having an impact on the world. There are websites all over the world that were made using Ruby.
+> (I'm always at home... For my family, for my wife, that's both a good thing and a bad thing. Sometimes, they tell me to hurry up and go to the office...) I like computers, I love programming languages, I love my work. But I don't think it's right to think of that stuff as being more important than my family. I want to make my life meaningful. And a big part of why I feel I've been able to do that has to do with the Mormon church. I maintain the structure to my life around being a Christian and being a father. I have no wish to be known by the title of "famous programmer".
 
-> When I was first making Ruby, I really thought I was going to be the only one using it. But after a while, people all over the world started using it, and lots of people have written books to help people learn it. 
-
-> (I'm always at home... For my family, for my wife, that's both a good thing and a bad thing. Sometimes, they tell me to hurry up and go to the office...)
-
-> I like computers, I love programming languages, I love my work. But I don't think it's right to think of that stuff as being more important than my family.
-
-> I want to make my life meaningful. And a big part of why I feel I've been able to do that has to do with the Mormon church.
-
-> I maintain the structure to my life around being a Christian and being a father. I have no wish to be known by the title of "famous programmer".
-
-> Software development isn't something where you suddenly create this perfect thing. Rather, you take an imperfect thing and gradually, little by little, fix it and build it up.
-
-> And you can't just do all that alone. I feel like life is like this too, that the questions of life are answered through this faith. Whether it's my wife or my children, my colleagues or neighbors, it's through the efforts and the discussions that we engage in together, that I hope to get to our version 2.0.
+> Software development isn't something where you suddenly create this perfect thing. Rather, you take an imperfect thing and gradually, little by little, fix it and build it up. And you can't just do all that alone. I feel like life is like this too, that the questions of life are answered through this faith. Whether it's my wife or my children, my colleagues or neighbors, it's through the efforts and the discussions that we engage in together, that I hope to get to our version 2.0.
 
 > I'm a father. I'm a husband. I'm a computer geek. I take pride in all this. I'm a juggler. I believe that you can change the world with a keyboard. I'm Matsumoto Yukihiro. And I'm a Mormon.
 
