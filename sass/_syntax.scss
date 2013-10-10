@@ -81,7 +81,7 @@ pre {
   @include border-radius(.4em);
   @extend .mono;
   font-size: 13px;
-  margin-bottom: 2.1em;
+  /* margin-bottom: 2.1em; */
   padding: .8em 1em;
   color: $pre-color;
   overflow: auto;
