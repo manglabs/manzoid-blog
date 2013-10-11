@@ -3,7 +3,7 @@ layout: post
 title: "List of app academies"
 date: 2013-08-23 10:09
 comments: true
-categories: 
+categories: programming learning
 
 ---
 
