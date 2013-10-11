@@ -49,12 +49,14 @@ You can clearly see that these points embody a dead-end point of view.
 
 5. Practice these skills steadily, one after another, having the "mundane" discipline to show up to work every day.
 
+6. Muster the guts to perform, to deliver something, even if you absolutely and excruciatingly *know* it's going to be crap at first. Putting stuff out there, putting yourself out there, is the only real way to engage the community, so you can grow.
+
 
 ## Easier said than done
 
 I know all this stuff falls, with the rustle and thud of an overstuffed garbage bag, squarely into the realm of "easier said than done". It's really hard to follow this kind of path alone.
 
-So, find your people! Nobody makes it to the Olympics by themselves. Even world-class artists still had teachers, early on. Later, they joined or created a community of other excellent artists to collaborate with, to observe and critique, and to compete with (competition being an active kind of observation).
+So, find your people! Nobody makes it to the Olympics by themselves. Even world-class artists still had teachers, early on. Later, they joined or created a community of other excellent artists to collaborate with, to observe and critique, and to compete with (think of competition as an active kind of observation and feedback).
 
 Find mentors and coaches, find a community. Figure out what your target community of excellent performers is doing, and how they got there -- and start taking steps down the road to where they are.
 
