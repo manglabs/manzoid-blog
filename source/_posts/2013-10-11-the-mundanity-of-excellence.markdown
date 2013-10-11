@@ -35,6 +35,8 @@ Let's invert these points to illustrate the mistaken beliefs we tend to fall int
 
 You can clearly see that these points embody a dead-end point of view.
 
+<!-- more -->
+
 ## What you can do instead
 
 1. Study top performers in your field. Figure out what they are doing, and who they are doing it with.

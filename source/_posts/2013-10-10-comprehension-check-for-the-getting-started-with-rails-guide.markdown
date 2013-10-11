@@ -13,6 +13,8 @@ But -- I have the impression that a lot of that material doesn't really "stick",
 
 So here's one small idea: What if you converted the content of a given tutorial into a simple recipe format, and went through that recipe, trying to recall *how* they did each thing in the tutorial? Seems like it would be a quick and reliable comprehension and retention check. (Of course you could refer back to the tutorial as often as necessary.)
 
+<!-- more -->
+
 For example, check out the "[Getting Started](http://manzoid.com/static/rails_guide/getting_started.html)" Rails Guide. If you were to just read through that Rails Guide, or even actively read through while following along with each step on your own computer, you will definitely learn stuff. But I suspect you'd still have the nagging worry that you really hadn't quite learned it to the point of being able to do it yourself.
 
 However, by going through a recipe-ized version of that Rails Guide, you could check your understanding and reassure yourself that, yes, you DID really get it, well enough to very likely be able to apply it elsewhere.
