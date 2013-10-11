@@ -63,7 +63,10 @@ Find mentors and coaches, find a community. Figure out what your target communit
 Remember, the key word in all this is "mundanity". There are lot of small steps you can take, each one do-able in itself. Figuring out what those steps are is probably going to be a collaborative process, but it's a process that *you* can initiate and steer… if you believe that it's worth even trying.
 
 ## Don't give up on yourself!
+
+^^ That.
+
 <br>
 [^1]: But of course, if "recreational player" or "decent semi-pro" is your goal, that's totally OK. Just embrace that goal consciously...
-[^2]: This is why even world-class athletes still have coaches -- decomposing complex performance into its constituent skills isn't always easy to do yourself. But it is *possible*, and in any case, probably mandatory, for you to get anywhere.
+[^2]: This is why even world-class athletes still have coaches -- decomposing complex performance into its constituent skills isn't always easy to do yourself. But however you do it, it is probably mandatory in order for you to get anywhere.
 
