@@ -3,7 +3,7 @@ layout: post
 title: "SICP Exercise 1.10"
 date: 2013-10-09 23:36
 comments: true
-categories: SICP
+categories: SICP lisp
 
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Hey Jeff-san!"
 date: 2013-08-07 05:25
 comments: true
-categories: 
+categories: japanese
 ---
 
 My friend Jeff was doing some business at his company's Tokyo office recently, and asked me how to interpret the "-san" thing. He was wondering if he was being explicitly honored when he was called "Jeff-san".

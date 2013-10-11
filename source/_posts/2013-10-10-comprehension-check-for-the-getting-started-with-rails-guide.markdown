@@ -3,7 +3,7 @@ layout: post
 title: 'An idea for checking your understanding of tutorial content'
 date: 2013-10-10 16:08
 comments: true
-categories: rails, learning
+categories: rails learning
 
 ---
 

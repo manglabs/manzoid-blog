@@ -3,7 +3,7 @@ layout: post
 title: "So you think you're not a real programmer"
 date: 2013-10-09 15:23
 comments: true
-categories: 
+categories: programming
 
 ---
 
