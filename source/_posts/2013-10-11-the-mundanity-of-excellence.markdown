@@ -62,9 +62,22 @@ Find mentors and coaches, find a community. Figure out what your target communit
 
 Remember, the key word in all this is "mundanity". There are lot of small steps you can take, each one do-able in itself. Figuring out what those steps are is probably going to be a collaborative process, but it's a process that *you* can initiate and steer… if you believe that it's worth even trying.
 
-## Don't give up on yourself!
+## Don't...
 
-^^ That.
+* give up on yourself before you even really start.
+* insist on "paying your dues" before you start working on the things that really matter. (That road might never end.)
+* settle for being surrounded by a bunch of people who aren't doing what you dream of doing.
+
+## Do...
+
+* find your people.
+* find the right ladder.
+* start moving up it a small rung at a time, every day.
+
+For inspiration along these lines, in the realm of learning how to code, check out [Jennifer Dewalt's story](http://blog.jenniferdewalt.com/post/62998082815/after-180-websites-im-ready-to-start-the-rest-of-my).
+
+Note what she's planning next: "I’d like to work with a smallish team of passionate people who are equally interested in making awesome stuff happen." She's looking for the right people to take her further up her chosen ladder.
+
 
 <br>
 [^1]: But of course, if "recreational player" or "decent semi-pro" is your goal, that's totally OK. Just embrace that goal consciously...
