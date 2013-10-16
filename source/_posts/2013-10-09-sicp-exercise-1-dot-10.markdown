@@ -52,15 +52,25 @@ Back to the exercise, though. The question asks us, basically, to do some experi
 
 For the function as formulated in the textbook, that looks like this:
 
-	(define (f n) (A 0 n))
-#### => 2n
+`(define (f n) (A 0 n))`
+=> $h(n) = 2n$
 
-	(define (g n) (A 1 n))
-#### => 2^n
+`(define (g n) (A 1 n))`
+=> $h(n) = 2^n$
 
-	(define (h n) (A 2 n))
+`(define (h n) (A 2 n))`
+=> $h(n) = 2 ^ {h(n-1)}$
 
-#### => 2^(2^(2^(2^(2)))), expanded out `n` times**
+Data:
+
+* h(0) = 0
+* h(1) = $2^1$ (2)
+* h(2) = $2^2$ (4)
+* h(3) = $2^4$ (16)
+* h(4) = $2^{16}$ (65,536)
+* h(5) = $2^{65536}$ ($ 20035299304068464649790723515... $ [~19,700 more digits]) 
+
+
 
 I also stepped through these bad boys in Dr. Racket, which was tedious but instructive, as usual. I don't care *too* much about this particular mathematical function per se, but the "instructive" part was that any practice in trying to "be the computer" and keep track of a recursive call stack in your head feels valuable. Kind of like practicing your scales as a musician.
 
