@@ -135,7 +135,9 @@ Interviewing is a species of public speaking, after all, which we all know is on
 
 But, to be fair, it's not *just* that. At least for some candidates, sub-par execution of routine tasks can also be attributed to a **copy/paste/pray** approach to slapping code together. The excellent book "[The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer)" highlights a phenomenon which the authors call "[programming by coincidence](http://pragprog.com/the-pragmatic-programmer/extracts/coincidence)".
 
-As you can imagine, that style of "programming by coincidence" is not something an interviewer wants to smell **any** whiff of… <div style="clear:both"></div>
+As you can imagine, that style of "programming by coincidence" is not something an interviewer wants to smell **any** whiff of, hence… 
+
+<div style="clear:both"></div>
 
 ### Can you think on your feet, without running your program every 15 seconds?
 
@@ -209,7 +211,9 @@ On that scary-fun note, I'll sign off for now, but meanwhile good luck on those 
 
 <br/>
 
-->![image](http://i.imgur.com/dBG4G7m.jpg)<-
+<div style="text-align:center">
+  <img src="http://i.imgur.com/dBG4G7m.jpg"/>
+</div>
 
 
 
