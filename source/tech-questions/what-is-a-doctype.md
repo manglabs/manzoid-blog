@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "What is a doctype?"
-date: 2014-02-04 13:19
 comments: true
 sharing: true
 footer: true

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Front-end engineering questions"
-date: 2014-02-04 13:19
 comments: true
 sharing: true
 footer: true
@@ -14,11 +13,12 @@ footer: true
 1. [JavaScript: Background Knowledge](#js)
 
 ####[[⬆]](#toc) <a name='js'>Data Structures and Algorithms: Background Knowledge</a>
-* What's a linked list?
+* [What's a linked list?](what-is-a-linked-list.html)
 * What's a hashtable?
 * What's a tree? vs a _binary_ tree? vs a binary _search_ tree?
 * What's a heap?
 * What's Base-64 encoding?
+* How does computer arithmetic work? [see link](http://floating-point-gui.de/)
 
 [http://www.nczonline.net/blog/tag/computer-science/](http://www.nczonline.net/blog/tag/computer-science/)
 
@@ -26,8 +26,8 @@ footer: true
 
 ##### Variables and type
 
-* What are the types in JavaScript?
-* What's the difference between `==` and `===`?
+* [What are the types in JavaScript?](what-are-types-in-javascript.html)
+* [What's the difference between `==` and `===`?](what-is-double-vs-triple-equals.html)
 * What's the difference between a variable that is: null, undefined, or undeclared, and how to check for these states?
 * What's "hoisting"?
 
@@ -36,6 +36,7 @@ footer: true
 * What's the difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
 * What's the difference between an "attribute" and a "property"?
 * When is extending built-in JavaScript objects a good idea? When is it *not* a good idea?
+* How do you use getters and setters in JavaScript objects?
 
 ##### Functions
 
@@ -54,7 +55,7 @@ footer: true
 
 ##### Inheritance
 
-* How does inheritance work in JavaScript.
+* How does inheritance work in JavaScript?
 * What are some useful inheritance patterns in JavaScript?
 
 ##### Events
@@ -81,7 +82,6 @@ footer: true
 
 * What's AJAX? (give some technical detail on how it works).
 * What's JSONP? (and how it's not really AJAX).
-* 
 * What options are there for server-push interaction?
 
 ##### Browser behavior / interaction
@@ -118,6 +118,7 @@ footer: true
 
 * How do you test your JavaScript?
 * What are the major testing libraries? Which one do you prefer and why?
+* If you have a Mac, how are you going to test your JavaScript on IE?
 
 ##### UI/UX
 
