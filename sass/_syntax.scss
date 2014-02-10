@@ -58,22 +58,7 @@ html .gist .gist-file {
    } @else {
      background: $base02 $noise-bg;
    }
-   @extend .sans;
-    a {
-      color: mix($base1, $base01) !important;
-      @include hover-link;
-      &:hover { color: $base1 !important; }
-    }
-    a[href*='#file'] {
-      position: absolute; top: 0; left:0; right:-10px;
-      color: #474747 !important;
-      @extend .code-title;
-      &:hover { color: $link-color !important; }
-    }
-    a[href*=raw]{
-      @extend .download-source;
-      top: .4em;
-    }
+
   }
 }
 
@@ -96,7 +81,7 @@ p, li {
     @extend .mono;
     display: inline-block;
     white-space: no-wrap;
-    background: #fff;
+    background: #ccc;
     font-size: .6em;
     color: #555;
     border: 1px solid #ddd;
