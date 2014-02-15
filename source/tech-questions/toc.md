@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Front-end engineering questions"
+title: "Engineering questions"
 comments: true
 sharing: true
 footer: true
@@ -79,6 +79,7 @@ footer: true
 #### Katas / Practice sites
 #### Game clones
 * Rock-Paper-Scissors
+* Connect 4
 * [Tic Tac Toe](/games/tictactoe/)
 * Hangman
 * Pong
@@ -128,6 +129,20 @@ footer: true
 
 [http://www.nczonline.net/blog/tag/computer-science/](http://www.nczonline.net/blog/tag/computer-science/)
 TOCHK: Sedgwick's algorithms course, part 1 and 2
+
+####[[⬆]](#toc) <a name='ruby-background'>Ruby and Ruby Ecosystem</a>
+* What is Rack?
+* What is Rails?
+* What is ActiveRecord?
+* What is Sinatra?
+* What are the main differences between Ruby 2.0 and Ruby 1.9.x and Ruby 1.8.x?
+* What are the different flavors of Ruby?
+* What is Ruby?
+* What's cool about Ruby?
+* Why do some people dislike Ruby?
+* Ruby vs Python?
+* Ruby vs Java?
+
 
 ####[[⬆]](#toc) <a name='networking-background'>Networking</a>
 
@@ -228,8 +243,8 @@ TOCHK: http://stackoverflow.com/questions/4139379/http-keep-alive-in-the-modern-
 
 * [What are the types in JavaScript?](what-are-types-in-javascript.html)
 * [What's the difference between `==` and `===`?](what-is-double-vs-triple-equals.html)
-* What's the difference between a variable that is: null, undefined, or undeclared, and how to check for these states?
-* What's "hoisting"?
+* [What's the difference between a variable that is: null, undefined, or undeclared, and how to check for these states?](what-is-the-difference-between-null-undefined-undeclared.html)
+* [What's "hoisting"?](what-is-hoisting.html)
 
 ##### Objects
 
@@ -245,7 +260,7 @@ TOCHK: http://stackoverflow.com/questions/4139379/http-keep-alive-in-the-modern-
 
 ##### Scoping
 
-* How does scoping work in JavaScript?
+* [How does scoping work in JavaScript?](scoping-in-js.html)
 * How does `this` work in JavaScript?
 * What's `Function.prototype.bind`?
 * What's a closure, and how/why would you use one?
@@ -281,7 +296,7 @@ TOCHK: http://stackoverflow.com/questions/4139379/http-keep-alive-in-the-modern-
 ##### Server interaction
 
 * What's AJAX? (give some technical detail on how it works).
-* What's JSONP? (and how it's not really AJAX).
+* [What's JSONP?](what-is-jsonp.html) (and how it's not really AJAX).
 * What options are there for server-push interaction?
 
 ##### Browser behavior / interaction
@@ -324,7 +339,7 @@ TOCHK: http://stackoverflow.com/questions/4139379/http-keep-alive-in-the-modern-
 
 * What's JavaScript templating and why is it used?
 * Describe how one of the major templating libraries works. (Mustache.js, Handlebars etc.)
-* What's the difference between responsive design and adaptive design?
+* [What's the difference between responsive design and adaptive design?](what-is-diff-btw-responsive-adaptive.html)
 	* How might JavaScript come into play to make such design styles work?
 
 
