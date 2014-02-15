@@ -54,14 +54,6 @@ Here's a quick rundown of a few key items in the above list.
 
 I'll do separate posts to dive a bit deeper into some of the other items, such as how caching works, because otherwise this post would get ginormous.
 
-## HTTP/1.0 vs HTTP/1.1
-
-In actual practice, pretty much everything is 1.1-compliant, given that 1.1 was released in 1997 (with some fixes in 1999).
-
-For a good laundry list of specific differences, see [this SO answer](http://stackoverflow.com/a/247026/2933794).
-
-Despite the prevalence of 1.1 support, the distinction is still somewhat relevant, because when you're using simple scripts or using simple (especially older) tools, you don't want to waste time being confused about unexpected behavior. need to remember how to construct HTTP/1.1 requests if that matters, or remember that you may be dropping back to HTTP/1.0, perhaps by accident. E.g., forgetting to send the 1.1-required `Host` request header might bite you in the butt.
-
 ## TCP pipes
 
 HTTP is usually transported over TCP/IP. It doesn't *have* to be, but it's safe for your working assumption to be that it's always going over TCP/IP.
@@ -100,8 +92,8 @@ However, here we are *not* talking about that kind of session, rather we are tal
 2. The client sends the HTTP request over that connection and starts waiting for the response
 3. The client processes the request and sends it.
 4. Conclude the session (?)
-	a. In HTTP/1.0, the TCP connection is always now closed by the server.
-	b. In HTTP/1.1, persistent connections are enabled by default, so the server waits for a possible follow-on request from the client. After some pre-configured number of seconds has passed without a subsequent request, the server times out and closes the TCP connection.
+	* In HTTP/1.0, the TCP connection is always now closed by the server.
+	* In HTTP/1.1, persistent connections are enabled by default, so the server waits for a possible follow-on request from the client. After some pre-configured number of seconds has passed without a subsequent request, the server times out and closes the TCP connection.
 
 #### Things to note
 
@@ -271,6 +263,19 @@ Here are some of the more important specific HTTP response codes in various cate
 <tr><td>503</td><td>Basically "closed for repair". Often crops up when the server's overloaded.</td></tr>
 <tr><td>504</td><td>Just like 502, except the request to the upstream server just timed out, there was no explicit error.</td></tr>
 </table>
+
+## HTTP/1.0 vs HTTP/1.1
+
+HTTP/1.1 added some really useful stuff to the standard:
+
+* Persistent connections
+* Lots of caching additions
+* Proxy support
+* Chunked transfer encoding
+
+Nowadays pretty much every HTTP server and client is 1.1-compliant, given that 1.1 was released in 1997 (with some fixes in 1999). There are a few old Unix tools like `wget` that [still do 1.0](http://wget.addictivecode.org/FrequentlyAskedQuestions#Does_Wget_understand_HTTP.2F1.1.3F).
+
+Despite the prevalence of 1.1 support, the distinction is still somewhat relevant, because when you're using simple scripts or using simple/older tools, you don't want to waste time being confused about unexpected behavior because you dropped yourself back to HTTP/1.0 behavior accidentally.
 
 
 # Next steps
