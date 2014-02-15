@@ -96,7 +96,7 @@ Of course, Array objects also ship with plenty of built-in convenience methods f
 
 Since Functions, like Arrays, are just Objects, you can set properties on them, and invoke methods on them. In particular you are likely to be mucking around with the `prototype` property, which every JavaScript function automatically has (except those that are created by `Function.bind()`).
 
-### the global object
+### <a name='global-object'>the global object</a>
 
 The "global object" is a regular JavaScript object that serves a unique, critical purpose -- as the name suggests, this is where all the global stuff lives!
 
